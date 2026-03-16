@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm a Master's student in Business Analytics at Hult International Business School.
 
-<!--
-**dvrey/dvrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in using data to improve how businesses operate, particularly in supply chain, transportation, and operational environments where analytics can support better decision-making and efficiency.
 
-Here are some ideas to get you started:
+### Tools & Technologies
+Python • R • SQL • Power BI • Tableau • Advanced Excel  
+Machine Learning • ETL Workflows • Data Modeling • Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Supply chain and operations analytics projects
+- Machine learning models for forecasting and classification
+- Geospatial data analysis in Python
+- Building dashboards for operational insights
+
+My work focuses on turning raw data into insights that support better business decisions.
