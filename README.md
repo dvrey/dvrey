@@ -1,3 +1,4 @@
+### Business & Supply Chain Analyst
 I'm a Master's student in Business Analytics at Hult International Business School.
 
 I’m interested in using data to improve how businesses operate, particularly in supply chain, transportation, and operational environments where analytics can support better decision-making and efficiency.
